@@ -11,7 +11,7 @@ This repo contains some modified grammatical styles from Vale and some instrusti
 
 ```
 # Core settings
-StylesPath = /home/YOURUSERNAME/valestyles
+StylesPath = /home/PUTYOURUSERNAMEHERE/valestyles
 MinAlertLevel = warning # suggestion, warning or error
 
 # Global settings (applied to every syntax)
