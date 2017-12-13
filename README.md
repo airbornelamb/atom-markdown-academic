@@ -29,4 +29,4 @@ vale.Hedging = error
 #[*.{md,txt}]
 ```
 
-Should be good to go.
+Should be good to go. You will also be able to lint files from the command line with `vale FILENAME`
