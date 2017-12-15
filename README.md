@@ -1,6 +1,6 @@
 # atom-markdown-academic
 
-After following all the instructions you will have a good setup for academic writing using Atom with pandoc and bibtex support.
+After following all the instructions you will have a good setup for academic writing using Atom with Zotero/Bibtex integration, prose linting, and Pandoc support.
 
 ## Setup
 
