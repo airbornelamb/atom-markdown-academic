@@ -26,7 +26,9 @@ Congratulations! You should now be able to fire up zotero and open your web brow
 This repo contains some modified grammatical styles from Vale and some instrustions for setting it up with Atom text editor. Vale is "A syntax-aware linter for prose built with speed and extensibility in mind".
 
 1. Clone this repo into your home directory 
-  `git clone https://github.com/airbornelamb/atom-markdown-academic.git ~/`
+  ```bash
+  git clone https://github.com/airbornelamb/atom-markdown-academic.git ~/
+  ```
 2. Download the vale release https://github.com/ValeLint/vale/releases
 3. Extract the vale release and move the binary to your path. e.g. /usr/local/bin/vale
 6. Open Atom and configure the atomic-vale package by setting the path to your vale installation
